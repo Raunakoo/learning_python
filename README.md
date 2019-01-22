@@ -1,2 +1,2 @@
 # Learning python
-## Author Raunak Singh
+## Author: Raunak Singh
