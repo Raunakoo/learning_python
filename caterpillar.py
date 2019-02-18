@@ -187,7 +187,6 @@ def move_right():
 	if caterpillar.heading()==90	or caterpillar.heading()==0:
 		caterpillar.setheading(0)
 
-
 t.onkey(start_game,'space')
 t.onkey(move_up,"Up")
 t.onkey(move_right,"Right")
